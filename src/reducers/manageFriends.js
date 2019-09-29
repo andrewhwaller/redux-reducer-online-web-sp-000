@@ -22,7 +22,7 @@ export function manageFriends(state = {
             ]
           }
         )
-      default: 
+      default:
         return state;
   }
 };
